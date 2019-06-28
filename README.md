@@ -1,1 +1,1 @@
-# proportial_polygon_choropleth
+# proportional_polygon_choropleth
